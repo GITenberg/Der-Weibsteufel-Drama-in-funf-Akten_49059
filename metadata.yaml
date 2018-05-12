@@ -1,4 +1,8 @@
 _repo: Der-Weibsteufel-Drama-in-funf-Akten_49059
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49059-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Schönherr, Karl
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45116
     wikipedia: http://de.wikipedia.org/wiki/Karl_Sch%C3%B6nherr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49059#Der-Weibsteufel-Drama-in-funf-Akten
 gutenberg_issued: '2015-05-27'
 gutenberg_type: Text
 identifiers:
